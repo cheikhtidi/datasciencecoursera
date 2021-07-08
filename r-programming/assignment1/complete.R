@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 complete <- function(directory, id = 1:332)
 {
   #Create a list of file
@@ -18,3 +19,6 @@ complete <- function(directory, id = 1:332)
   return(dat)
 }
 complete(getwd(),id=1:332)
+=======
+
+>>>>>>> ce3928ad8d65ff8fcaedb3a76839389a4ba83e3b
