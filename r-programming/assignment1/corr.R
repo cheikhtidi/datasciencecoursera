@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 corr=function(directory,threshold=0){
   files_full=list.files(directory,full.names=T)
   #create empty data set
@@ -21,4 +22,6 @@ corr=function(directory,threshold=0){
 }
 
 corr(getwd(),150)
+=======
+>>>>>>> 1d8c4d1d1aafaba1a86aa37bbeb28dabea1f7e52
 
